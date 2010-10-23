@@ -1,0 +1,8 @@
+de:
+  ssl_auth_ssl_login: SSL Login
+  label_related_todos: Zugehörige Aufgaben
+  unassigned_issues: Noch nicht zugeordnet
+  version_priorities_text_prioritized_versions: Priorisierte Sprints
+  version_priorities_text_unprioritized_versions: Unpriorisierte Sprints
+  version_priorities_title: Sprint Prio
+  new_diagram: Neues Diagramm hinzufügen
